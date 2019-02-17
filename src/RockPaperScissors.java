@@ -1,7 +1,7 @@
 import java.util.Random;
 import javax.swing.JOptionPane;
 
-public class Main {
+public class RockPaperScissors {
     private byte computerScore = 0;
     private byte playerScore = 0;
 
